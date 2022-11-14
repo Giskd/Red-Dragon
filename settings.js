@@ -57,11 +57,11 @@ global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
 global.premium = ['+94712473358'] //ur premium numbers
-
+https://youtu.be/K4PKgHfvvmc
 //other
 global.sessionName = 'session'
 global.antitags = false
-global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
+global.prefa = ['','!','.','😂','❤️','💠'] //https://youtu.be/K4PKgHfvvmc
 global.sp = '💠'
 global.mess = {
     success: 'Done ✅',
